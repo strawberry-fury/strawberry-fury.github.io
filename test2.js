@@ -14,8 +14,6 @@ Game.registerMod('HoldClicker', {
         console.log(this)
         // Game.customOptionsMenu.push(this.addOptionsMenu);
         this.conditionDetect();
-        }
-
     },
 
     load: function(str) {
